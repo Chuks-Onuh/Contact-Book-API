@@ -1,0 +1,9 @@
+C:\Code\Decagon_Tasks\week-9-Chuks-Onuh\ContactBook.Models\bin\Debug\netcoreapp3.1\ContactBook.Models.deps.json
+C:\Code\Decagon_Tasks\week-9-Chuks-Onuh\ContactBook.Models\bin\Debug\netcoreapp3.1\ContactBook.Models.dll
+C:\Code\Decagon_Tasks\week-9-Chuks-Onuh\ContactBook.Models\bin\Debug\netcoreapp3.1\ContactBook.Models.pdb
+C:\Code\Decagon_Tasks\week-9-Chuks-Onuh\ContactBook.Models\obj\Debug\netcoreapp3.1\ContactBook.Models.csprojAssemblyReference.cache
+C:\Code\Decagon_Tasks\week-9-Chuks-Onuh\ContactBook.Models\obj\Debug\netcoreapp3.1\ContactBook.Models.AssemblyInfoInputs.cache
+C:\Code\Decagon_Tasks\week-9-Chuks-Onuh\ContactBook.Models\obj\Debug\netcoreapp3.1\ContactBook.Models.AssemblyInfo.cs
+C:\Code\Decagon_Tasks\week-9-Chuks-Onuh\ContactBook.Models\obj\Debug\netcoreapp3.1\ContactBook.Models.csproj.CoreCompileInputs.cache
+C:\Code\Decagon_Tasks\week-9-Chuks-Onuh\ContactBook.Models\obj\Debug\netcoreapp3.1\ContactBook.Models.dll
+C:\Code\Decagon_Tasks\week-9-Chuks-Onuh\ContactBook.Models\obj\Debug\netcoreapp3.1\ContactBook.Models.pdb
